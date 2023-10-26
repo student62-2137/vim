@@ -5,6 +5,7 @@ vim jest edytorem tekstu, znanym m.in. ze swojej głębi, pozwalającej na zbudo
 ## Głębia ##
 Głównym sposobem na personalizacje vim'a są rozszerzenia budowane przez społeczność użytkowników tego edytora. Ich ogromna ilość oraz różnorodnośc pozwala każdemu na stworzenie dostosowanego do siebie środowiska programistycznego, co powinno pozwolić na zwiększenie produktywności programisty.
 ***
+zmiana
 
 ## Tryby ##
 vim posiada trzy podstawowe tryby:
@@ -12,6 +13,7 @@ vim posiada trzy podstawowe tryby:
 2. Tryb wstawiania, służący do wstawiania tekstu.
 3. Tryb wizualny, stosowany do zaznaczania tekstu.
 ***
+zmiana
 
 ## Kombinacje ##
 Dwoma najważniejszymi zmianami w nawigacji programem są:
